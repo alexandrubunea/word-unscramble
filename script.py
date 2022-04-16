@@ -1,24 +1,21 @@
-###################################################################
-###################################################################
-###																###
-###						Phrase Unscramble						###
-###																###
-###				Author: https://github.com/alexandrubunea		###
-###																###
-###																###
-###		Usage:													###
-###				- First data input: the phrase you want to		###
-###			unscramble.											###
-###				- Second data input: the filter level you		###
-###			want to apply. A lower value will offer a more		###
-###			precise result. (Use -1 as value if you want no		###
-###			filter level to be applied)							###
-###																###
-###																###
-###			>>	Feel free to use and improve the code	<<		###
-###																###
-###################################################################
-###################################################################
+"""
+						Phrase Unscramble						
+															
+				Author: https://github.com/alexandrubunea		
+																
+																
+		Usage:													
+				- First data input: the phrase you want to		
+			unscramble.											
+				- Second data input: the filter level you		
+			want to apply. A lower value will offer a more		
+			precise result. (Use -1 as value if you want no		
+			filter level to be applied)							
+																
+																
+			>>	Feel free to use and improve the code	<<		
+																
+"""
 
 
 import urllib.error
